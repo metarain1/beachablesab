@@ -1,0 +1,94 @@
+
+@media only screen and (max-width: 1000px){
+	
+		.header_bottom {
+		background-color: #ffffff;
+	}
+				.header_bottom,
+		nav.mobile_menu{
+				background-color: #ffffff !important;
+		}
+		
+	 		.subtitle{
+			font-size: 13.6px;
+		}
+	 		
+										}
+
+@media only screen and (min-width: 600px) and (max-width: 768px){
+			.title h1,
+		.title h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:38.4px;
+		}
+				.title.title_size_small h1,
+		.title.title_size_small h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:20px;
+		}
+				.title.title_size_medium h1,
+		.title.title_size_medium h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:33px;
+		}
+						.content h2{
+			line-height: 1.3em!important;
+		}
+						
+			.subtitle{
+			font-size: 13.6px;
+		}
+	 }
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	        section.parallax_section_holder{
+		height: auto !important;
+		min-height: 200px !important;
+	}
+		
+	}
+
+@media only screen and (max-width: 600px){
+			.title h1,
+		.title h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:33.6px;
+		}
+				.title.title_size_small h1,
+		.title.title_size_small h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:20px;
+		}
+				.title.title_size_medium h1,
+		.title.title_size_medium h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:33px;
+		}
+						.content h2{
+				font-size:16.5px!important;
+			}
+				.content h2{
+			line-height: 1.3em!important;
+		}
+						}
+
+@media only screen and (max-width: 480px){
+
+			.title h1,
+		.title h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:28.8px;
+		}
+				.title.title_size_small h1,
+		.title.title_size_small h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:20px;
+		}
+				.title.title_size_medium h1,
+		.title.title_size_medium h1.title_like_separator .vc_text_separator.full .separator_content{
+			font-size:19.8px;
+		}
+						.content h2{
+				font-size:13.2px!important;
+			}
+							
+		section.parallax_section_holder{
+		height: auto !important;
+		min-height: 200px !important;
+	}
+		
+	
+	
+	}

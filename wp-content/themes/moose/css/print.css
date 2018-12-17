@@ -1,0 +1,32 @@
+@media only print {
+
+     header, footer,
+     .title_outer,
+     .blog_print_wrapper,
+     .portfolio_print_wrapper,
+     div[class='portfolio_navigation'] {
+          display: none;
+     }
+
+     .container_inner{
+          max-width: 80%;
+     }
+
+     div[class*='columns'] > div[class^='column'] {    
+          float: none;    
+          width: 100%;
+     }
+
+     html, body, .wrapper, .wrapper_inner
+     .container,
+     .container_inner {
+          padding-top: 0 !important;
+          margin-top: 0 !important;
+          top:0 !important;
+     }
+
+     #single-product-slider img {
+          width: 50%;
+     }
+
+}
